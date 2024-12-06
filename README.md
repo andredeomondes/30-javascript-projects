@@ -1,4 +1,4 @@
-# 100 JavaScript Projects
+# 30 JavaScript Projects
 ![image](https://github.com/user-attachments/assets/3c6d6ea9-7aae-4de0-8e53-9024d635fc39)
 
 Este repositório contém uma coleção de **100 projetos JavaScript** que tem como objetivo melhorar as habilidades de programação em JavaScript e criar uma base sólida para o desenvolvimento web. Cada projeto aborda um conceito ou habilidade específica, desde funcionalidades simples até conceitos mais avançados.
