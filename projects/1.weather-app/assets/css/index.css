@@ -120,13 +120,13 @@ body {
   text-decoration: none;
   z-index: 1000;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  overflow: visible; /* Permite que o tooltip apareça */
+  overflow: visible; 
 }
 
 .floating-button img {
   width: 50%;
   height: 50%;
-  filter: invert(0); /* Ícone branco */
+  filter: invert(0); 
 }
 
 .floating-button:hover {
@@ -134,10 +134,9 @@ body {
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
 }
 
-/* Tooltip customizado */
 .tooltip {
   position: absolute;
-  bottom: 70px; /* Posição acima do botão */
+  bottom: 70px; 
   right: 115px;
   transform: translateX(50%);
   background-color: #000;
