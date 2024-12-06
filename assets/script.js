@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    const typingText = "100 JavaScript Projects";
+    const typingText = "30 JavaScript Projects";
     const typingElement = document.getElementById("typing-effect");
     const cursorElement = document.getElementById("cursor");
     let index = 0;
